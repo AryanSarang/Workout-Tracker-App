@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Workout-Tracker-App/static/css/main.1f32d474.css",
+    "main.js": "/Workout-Tracker-App/static/js/main.474fab41.js",
+    "static/media/banner.png": "/Workout-Tracker-App/static/media/banner.5209b5e92a864ca0c615.png",
+    "static/media/gym.png": "/Workout-Tracker-App/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/Workout-Tracker-App/index.html",
+    "main.1f32d474.css.map": "/Workout-Tracker-App/static/css/main.1f32d474.css.map",
+    "main.474fab41.js.map": "/Workout-Tracker-App/static/js/main.474fab41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f32d474.css",
+    "static/js/main.474fab41.js"
+  ]
+}
